@@ -9,7 +9,7 @@ MCU- qty 1
 2.	Will have to research more tbh for what board to use
 
 Power Supply- qty 1
-1.	6000 mAh, 11.1V: [Pro-Range INR 18650 11.1V](https://robu.in/product/11-1v-2000mah-3c-3s1p-li-ion-battery-pack/)
+1.	6000 mAh, 11.1V: [Pro-Range INR 18650 11.1V](https://robu.in/product/pro-range-18650-li-ion-6000mah-3s-11-1v-3c-3s3p/)
 2.	Amass Nylon T male connector: [Amass Nylon T male connector](https://robu.in/product/nylon-t-style-male-connector-with-insulating-cap-1pcs/)
 3.	Buck converter, adjustable:  
 	a. [LM2596S](https://robu.in/product/lm2596s-with-smd-led-dc-dc-step-down-power-supply) - cheaper version, might be risky  
