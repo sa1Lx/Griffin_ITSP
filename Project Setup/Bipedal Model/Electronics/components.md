@@ -10,7 +10,10 @@ MCU- qty 1
 
 Power Supply- qty 1
 1.	2000 mAh, 11.1V: [Pro-Range INR 18650 11.1V](https://robu.in/product/11-1v-2000mah-3c-3s1p-li-ion-battery-pack/)
-2.	Buck converter, adjustable: [LM2596S](https://robu.in/product/lm2596s-with-smd-led-dc-dc-step-down-power-supply/)
+2.	Amass Nylon T male connector: [Amass Nylon T male connector](https://robu.in/product/nylon-t-style-male-connector-with-insulating-cap-1pcs/)
+3.	Buck converter, adjustable:
+	  a. [LM2596S](https://robu.in/product/lm2596s-with-smd-led-dc-dc-step-down-power-supply) - cheaper version, might be risky
+  	b. [XH-M404](https://robu.in/product/xl4016e1-200w-step-down-power-supply-module/#tab-description) - costlier but safer
 
 Wires- qty ?
 1.	Jumper wires, length ?, male to male and male to female
