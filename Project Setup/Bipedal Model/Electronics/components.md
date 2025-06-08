@@ -18,6 +18,7 @@ Power Supply- qty 1
 Wires- qty ?
 1.	14 AWG wire: [14 AWG wire](https://robu.in/product/14awg-solid-core-insulated-wire-silicone-black/)
 2.	Jumper wire:
+   
 	a. Male to Male jumper wire: [30 cm](https://robu.in/product/male-to-male-jumper-wires-40-pin-30cm/)  
 	b. Male to Female jumper wire: [30 cm](https://robu.in/product/male-to-female-jumper-wires-40-pin-30cm/)
 
