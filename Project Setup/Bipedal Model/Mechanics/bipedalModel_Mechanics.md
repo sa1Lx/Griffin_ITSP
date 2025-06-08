@@ -1,0 +1,1 @@
+This is the file containing details on the mechanics of the Bipedal Model.
