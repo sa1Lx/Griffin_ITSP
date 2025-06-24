@@ -9,4 +9,5 @@ The components are listed under [Components](components.md).
 4. **MG995**: connect with 6-6.5V supply from XL4016E1 to connect power to servos. Signal line connected to GPIO PWM pin (6 separate pins)
 5. **MPU6050**: Pico 3V3 output to connect power. SDA and SCL to GP 6 and 7.
 6. **ADS1115**: Pico 3V3 output to connect power. SDA and SCL to GP 6 and 7 (NOTE: use different I2C addresses for gyro and adc)
+7. **PDB181**: Pico 3V3 output to connect power. Wiper to ADS analog input pins (A0-A3)
     
