@@ -1,5 +1,7 @@
 This file emphasises the concept of balancing the robot and factors concerning it.
 
+(NOTE: UNFINISHED)
+
 # Factors 
 
 ## Robots Size Selection
