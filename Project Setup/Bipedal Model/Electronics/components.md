@@ -1,6 +1,6 @@
 This file will entail all the components that will be used in the bipedal model's electronics setup.
 
-## Servo motor- qty 6 (2*2 Hip Servos, 1*2 Knee Servos)
+## Servo motor- qty 6 (2\*2 Hip Servos, 1\*2 Knee Servos)
   1.	For light weight(13 gm), but 180 deg (cheaper too), torque around 1.8-2.2 kg-cm(also has a “high quality” version, tho out of stock): [TowerPro MG90S](https://robu.in/product/towerpro-mg90s-mini-digital-servo-motor-180-rotation-standard-quality/) (out of stock)
   2.	For heavier (55 gm), torque around 10-12 kg-cm: [TowerPro MG995- Al Servo Arm](https://robu.in/product/towerpro-mg995-metal-gear-servo-motor-cnc-aluminum-steering-servo-horn-arm/#tab-description) OR [TowerPro MG995 Standard- Plastic Servo Arm](https://robu.in/product/towerpro-mg995-metal-gear-servo-motor/)
 
