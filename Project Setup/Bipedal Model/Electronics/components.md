@@ -1,8 +1,8 @@
 This file will entail all the components that will be used in the bipedal model's electronics setup.
 
 Servo motor- qty 4
-  1.	For light weight(13 gm), but 180 deg (cheaper too), torque around 1.8-2.2 kg-cm(also has a “high quality” version, tho out of stock): [TowerPro MG90S](https://robu.in/product/towerpro-mg90s-mini-digital-servo-motor-180-rotation-standard-quality/) 
-  2.	For 360 deg, heavier (55 gm), torque around 9.4-11 kg-cm: [TowerPro MG995](https://robu.in/product/towerpro-mg995-continuous-rotation-360-metal-gear-servo-motor-9-2kg/)
+  1.	For light weight(13 gm), but 180 deg (cheaper too), torque around 1.8-2.2 kg-cm(also has a “high quality” version, tho out of stock): [TowerPro MG90S](https://robu.in/product/towerpro-mg90s-mini-digital-servo-motor-180-rotation-standard-quality/) (out of stock)
+  2.	For heavier (55 gm), torque around 10-12 kg-cm: [TowerPro MG995- Al Servo Arm](https://robu.in/product/towerpro-mg995-metal-gear-servo-motor-cnc-aluminum-steering-servo-horn-arm/#tab-description) OR [TowerPro MG995 Standard- Plastic Servo Arm](https://robu.in/product/towerpro-mg995-metal-gear-servo-motor/)
 
 MCU- qty 1
 1.	Arduino uno- will operate via PWM: [Arduino Uno R3](https://robu.in/product/arduino-uno-r3/)
