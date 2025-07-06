@@ -15,13 +15,14 @@ Final Pick- **Rasberry Pi Pico**
 ## Sensor Reading- qty 5
 1. Potentiometer (qty-4)- [PDB181-K220K-104B](https://robu.in/product/pdb181-k220k-104b-rotary-potentiometer/)
 2. IMU (qty-1)- [MPU6500](https://robu.in/product/mpu6500-gyroscope-accelerometer-digital-motion-processor-dmp-6-axis-motion-sensor-with-i2c-spi-interface/)
+3. Multiplexer if needed
 
 ## Power Supply- qty-1
 1.	6000 mAh, 11.1V: [Pro-Range INR 18650 11.1V 6000mAh](https://robu.in/product/pro-range-inr-18650-11-1v-6000mah-3c-3s2p-li-ion-battery-pack-with-dc-jack-female-and-nylon-t/)
 2.	Amass Nylon T male connector: [Amass Nylon T male connector](https://robu.in/product/nylon-t-style-male-connector-with-insulating-cap-1pcs/)
 3.	Buck converter, adjustable:  (qty-2)<br>
 	a. [LM2596S](https://robu.in/product/lm2596s-with-smd-led-dc-dc-step-down-power-supply) - cheaper version, might be risky  <br>
-  	b. [XL4016E1](https://robu.in/product/xl4016e1-200w-step-down-power-supply-module/#tab-description) - costlier but safer
+  	b. [XL4016E1](https://robu.in/product/xl4016e1-200w-step-down-power-supply-module/#tab-description) - costlier but safer <br>
   	c. [LM317](https://robu.in/product/lm317-dc-linear-regulator-dc-dc-4-540v-turn-1-237v-step-down-power-module-adjustable/) <br>
 
 Final Pick- **LM317 (qty-?)**
