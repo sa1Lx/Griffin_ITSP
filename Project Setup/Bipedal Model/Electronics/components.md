@@ -22,8 +22,9 @@ Final Pick- **Rasberry Pi Pico**
 3.	Buck converter, adjustable:  (qty-2)<br>
 	a. [LM2596S](https://robu.in/product/lm2596s-with-smd-led-dc-dc-step-down-power-supply) - cheaper version, might be risky  <br>
   	b. [XL4016E1](https://robu.in/product/xl4016e1-200w-step-down-power-supply-module/#tab-description) - costlier but safer
+  	c. [LM317](https://robu.in/product/lm317-dc-linear-regulator-dc-dc-4-540v-turn-1-237v-step-down-power-module-adjustable/) <br>
 
-Final Pick- **XL4016E1 (qty-2)**
+Final Pick- **LM317 (qty-?)**
 
 ## Wires- qty ?
 1.	14 AWG wire: [14 AWG wire](https://robu.in/product/14awg-solid-core-insulated-wire-silicone-black/)
