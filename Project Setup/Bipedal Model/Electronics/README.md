@@ -1,6 +1,6 @@
 This is the file containing details on the electronics of the Bipedal Model.
 
-The components are listed under [Components](components.md).
+The components and their link at [robu.in](robu.in) are listed under [Components](components.md).
 
 ## Overview of Key Components:  
 1. **11.1 V Battery**: provide 11.1 V ouput Voltage via Amass Nylon T charge port, then we connect it using the male connector, use 14 AWG wire to connect it with Step-Down Power Supply Module  
